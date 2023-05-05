@@ -18,7 +18,7 @@ images- (authorised, no_entry) for displaying a prompt, have also been provided 
 For authorized access:
 Prompt:
 
-![Verified_1](https://user-images.githubusercontent.com/99686864/236568506-c0f24953-89f2-467a-a2fe-5c1630c5f4e9.jpg | width= 100)
+![Verified_1](https://user-images.githubusercontent.com/99686864/236568506-c0f24953-89f2-467a-a2fe-5c1630c5f4e9.jpg)
 
 Fingerprint Matching: 
 
