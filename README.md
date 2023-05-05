@@ -12,8 +12,8 @@ This would contain 2 folders:
 Real- real fingerprints
 Altered- blurred,faded,rotated versions of real dataset
 
-Then run: main.py- the main python code
-images- (authorised, no_entry) for displaying a prompt, have also been provided in this repository.
+Then run: main.py- the main python code.
+Images- (authorised, no_entry) for displaying a prompt, have also been provided in this repository.
 
 For authorized access:
 Prompt:
